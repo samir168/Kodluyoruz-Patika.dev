@@ -1,0 +1,33 @@
+package Giris.Programlar;
+import java.util.Scanner;
+
+
+public class Program1 {
+    public static void main(String[] args) {
+        int Fizik, Kimya, Turkce, Tarih, Muzik;
+
+        Scanner inp = new Scanner(System.in);
+
+        System.out.print("Fizik notu : ");
+        Fizik = inp.nextInt();
+
+        System.out.print("Kimya notu : ");
+        Kimya = inp.nextInt();
+
+        System.out.print("Turkce notu : ");
+        Turkce = inp.nextInt();
+
+        System.out.print("Tarih notu : ");
+        Tarih = inp.nextInt();
+
+        System.out.print("Muzik notu : ");
+        Muzik = inp.nextInt();
+
+        int toplam = Fizik + Kimya + Turkce + Tarih + Muzik;
+        double sonuc = toplam / 6;
+        boolean sonuc1 = sonuc > 60;
+        String str = sonuc1 ? "Sınıfı Geçti" : "Sınıfda Kaldı";
+        System.out.println("Ortalamanız : " + sonuc);
+        System.out.println(str);
+    }
+}

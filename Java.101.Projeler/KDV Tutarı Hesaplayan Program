@@ -1,0 +1,24 @@
+package Giris.Programlar;
+import java.util.Scanner;
+public class Program2 {
+    public static void main(String[] args) {
+
+        double tutar, kdvtutari, kdvli;
+
+        Scanner inp = new Scanner(System.in);
+        System.out.print("Ücret tutarınızı giriniz : ");
+        tutar = inp.nextDouble();
+
+        double kdvorani = tutar > 1000 ? 0.08 : 0.18;
+
+        kdvtutari = tutar * kdvorani;
+        kdvli = tutar + kdvtutari;
+
+        System.out.println("KDV'siz tutar : " + tutar);
+        System.out.println("KDV orani : " + kdvorani);
+        System.out.println("KDV tutarı : " + kdvtutari);
+        System.out.println("KDV'li tutar : " + kdvli);
+
+    }
+
+}

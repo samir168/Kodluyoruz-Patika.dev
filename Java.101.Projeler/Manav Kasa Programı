@@ -1,0 +1,29 @@
+package Giris.Programlar;
+import java.util.Scanner;
+public class Program7 {
+    public static void main(String[] args) {
+
+        double domates, armut, elma, patlican, muz;
+        double domatestl = 1.11, armuttl = 2.14, elmatl = 3.67, patlicantl = 5.00, muztl = 0.95;
+        Scanner inp = new Scanner(System.in);
+
+        System.out.print("Domates Kaç Kilo ? : ");
+        domates = inp.nextDouble();
+
+        System.out.print("Armut Kaç Kilo ? : ");
+        armut = inp.nextDouble();
+
+        System.out.print("Elma Kaç Kilo ? : ");
+        elma = inp.nextDouble();
+
+        System.out.print("Muz Kaç Kilo ? : ");
+        muz = inp.nextDouble();
+
+        System.out.print("Patlıcan Kaç Kilo ? : ");
+        patlican = inp.nextDouble();
+
+        double toplam = domates*domatestl + armut*armuttl + elma*elmatl + patlican*patlicantl + muz*muztl;
+
+        System.out.println("Toplam tutar : " + toplam + " TL ");
+    }
+}

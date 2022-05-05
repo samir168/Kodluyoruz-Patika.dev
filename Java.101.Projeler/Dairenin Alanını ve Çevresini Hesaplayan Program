@@ -1,0 +1,23 @@
+package Giris.Programlar;
+import java.util.Scanner;
+public class Program5 {
+    public static void main(String[] args) {
+        int r,a;
+        double pi = 3.14;
+
+
+        Scanner inp = new Scanner(System.in);
+        System.out.print("Dairenin yari capini giriniz : ");
+        r = inp.nextInt();
+        System.out.print("Dilimin derecesin giriniz : ");
+        a = inp.nextInt();
+
+        boolean derece = a < 360;
+        double alan = pi * r * r;
+        double cevre =  2 * pi * r;
+        double dilim = (pi * (r*r) * a) / 360;
+        System.out.println("Dairenin  alani : " + alan);
+        System.out.println("Dairenin cevresi : " + cevre);
+        System.out.println("Daire diliminin alani : " + dilim);
+    }
+}

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <body>
+
+        <!-- Kendim hakkında -->
+    
+        <h1>Samir Ramazani</h1>
+        <h3>Hakkımda</h3>
+        <p>Merhaba. Ben Ramazani Samir. Azerbaycanlıyım. Yazılım öyreniyorum ve kendimi bu yönde geliştiriyorum. Film izlemeyi ve şarkı dinlemeyi seviyorum. Bu eğitim ile güzel şeyler başaracağıma inanıyorum. </p>
+    
+        <!-- İlgi Alanlarım  -->
+    
+        <h3><scan>İlgi Alanlarım</scan></h3>
+
+            <ol>
+                <li>Film
+                    <ul>
+                        <li> <a href="https://www.imdb.com/title/tt0137523/?ref_=fn_al_tt_0">Fight Club </a></li>
+                        <li>Zodiac</li>
+                        <li>Interstellar</li>
+                    </ul>
+                </li>
+                <li>Dizi
+                    <ul>
+                        <li><a href="https://www.imdb.com/title/tt0903747/">Breaking Bad</a></li>
+                        <li>Better Call Saul</li>
+                        <li>Vikings</li>
+                    </ul>
+                </li>
+                <li>Kitap
+                    <ul>
+                        <li><a href="https://www.goodreads.com/user/rate_books?genre=science&reg_path=true"> Harry Potter</a></li>
+                        <li>Robin Hood</li>
+                        <li>Don Kixot</li>
+                    </ul>
+                </li>
+            </ol>
+
+            <h1>Sevdiğim Diziler</h1>
+        <h3><strong>Breaking Bad</strong> </h3>
+
+        <img height="350"     src="https://www.usmagazine.com/wp-content/uploads/2020/08/Breaking-Bad-Where-Are-They-Now.jpg?w=1600&quality=86&strip=all" alt="">
+        <p>Breaking Bad 6 sezonluk dram ve suç dizisidir. Bana göre bir dizinin ola bileceği en mükemmel halidir. Dizide olan güzel dramın çılgın suçla pekişmesi mükemmel hale getiriyor.</p>
+        <p>Bu dizide olan Brayn Crantson ve Aaron Paul un canlandırdığı Walter White ve Jesse karakterlerinin arasındaki bağ bütün dizinin temelini kuruyor.</p>
+    
+    </body>
+    </html>
+    
+    
+    
+</body>
+</html>

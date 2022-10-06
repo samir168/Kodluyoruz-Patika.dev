@@ -1,0 +1,187 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ana Sayfa | Kodluyoruz</title>
+</head>
+<body>
+    <!-- Navbar - Start -->
+    <header> 
+        <nav>
+            <ul>
+                <li><a href="index.html">Ana Sayfa</a></li>
+            </ul>
+            <ul>
+                <li><a href="about-us.hmtl">Hakkımızda</a></li>
+            </ul>
+            <ul>
+                <li><a href="contact-us.html">İletişim</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Navbar - End -->
+
+       <!-- Content - Start -->
+       <section>
+            <!-- Articles - Start -->
+            <article>
+                <h2> Ana Sayfa </h2>
+                <img src="https://picsum.photos/seed/picsum/200/300" alt="Yazı 1">
+                <p>Lorem ipsum dolor sit.</p>
+                <p>Sunt minus quasi voluptatum.</p>
+                <p>Libero molestiae dignissimos totam </p>
+                <ol>
+                    <li>Lorem ipsum dolor sit.</li>
+                    <li>Fugiat totam voluptas libero?</li>
+                    <li>Odit fuga maxime aperiam!</li>
+                </ol>
+                <hr>
+            </article>
+            <article>
+                <h2> İkinci Yazı </h2>
+                <img src="https://picsum.photos/seed/picsum/200/300" alt="Yazı 2">
+                <p>Lorem ipsum dolor sit.</p>
+                <p>Sunt minus quasi voluptatum.</p>
+                <p>Libero molestiae dignissimos totam </p>
+              
+                <ul>
+                    <li>Lorem ipsum dolor sit.</li>
+                    <li>Earum dolorum quis itaque?</li>
+                    <li>Harum ad eius quod.</li>
+                </ul>  
+                <hr>
+            </article>
+            <article>
+                <h2> Üçüncü Yazı </h2>
+                <img src="https://picsum.photos/seed/picsum/200/300" alt="Yazı 3">
+                <p>Lorem ipsum dolor sit.</p>
+                <p>Sunt minus quasi voluptatum.</p>
+                <p>Libero molestiae dignissimos totam </p>
+                <hr>
+            </article>
+            <!-- Articles - End -->
+       </section>
+        <!-- Content - End -->
+
+        <!-- Footer - Start -->
+
+        <!-- Footer - End -->
+</body>
+</html>
+
+
+<!-- about-us.html -->
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakkımızda | Kodluyoruz</title>
+</head>
+<body>
+    <!-- Navbar - Start -->
+    <header> 
+        <nav>
+            <ul>
+                <li><a href="index.html">Ana Sayfa</a></li>
+            </ul>
+            <ul>
+                <li><a href="about-us.html">Hakkımızda</a></li>
+            </ul>
+            <ul>
+                <li><a href="contact-us.html">İletişim</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Navbar - End -->
+
+       <!-- Content - Start -->
+       <section>
+            <!-- Articles - Start -->
+            <article>
+                <h2> Hakkımızda </h2>
+                <img src="https://picsum.photos/seed/picsum/200/300" alt="Yazı 1">
+                <p>Lorem ipsum dolor sit.</p>
+                <p>Sunt minus quasi voluptatum.</p>
+                <p>Libero molestiae dignissimos totam </p>
+                <ol>
+                    <li>Lorem ipsum dolor sit.</li>
+                    <li>Fugiat totam voluptas libero?</li>
+                    <li>Odit fuga maxime aperiam!</li>
+                </ol>
+                <hr>
+            </article>
+            <!-- Articles - End -->
+       </section>
+        <!-- Content - End -->
+
+        <!-- Footer - Start -->
+
+        <!-- Footer - End -->
+</body>
+</html>
+
+<!-- contact-us.html -->
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>  İletişim | Kodluyoruz  </title>
+</head>
+<body>
+    <!-- Navbar - Start -->
+    <header> 
+        <nav>
+            <ul>
+                <li><a href="index.html">Ana Sayfa</a></li>
+            </ul>
+            <ul>
+                <li><a href="about-us.hmtl">Hakkımızda</a></li>
+            </ul>
+            <ul>
+                <li><a href="contact-us.html">İletişim</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Navbar - End -->
+
+       <!-- Content - Start -->
+       <section>
+            <!-- Articles - Start -->
+            <article>
+                <h2> İletişim </h2>
+                <img src="https://picsum.photos/seed/picsum/200/300" alt="Yazı 1">
+                
+                <address>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fames tristique <br>
+                     porta at eu tempus. Egestas aliquet ullamcorper nunc sed pellentesque. Faucibus dolor mauris nascetur ut feugiat hac rutrum tempor congue. 
+                     <br>
+                      eget adipiscing scelerisque.
+                </address>
+                  
+                <ul>
+                    <li><a href="tel:8348428742">8348428742</a></li>
+                    <li><a href="mailto:kodluyoruz123@gmail.com">kodluyoruz123@gmail.com</a></li>
+                </ul>
+               
+                
+            </article>
+            <!-- Articles - End -->
+       </section>
+        <!-- Content - End -->
+
+        <!-- Footer - Start -->
+
+        <!-- Footer - End -->
+</body>
+</html>

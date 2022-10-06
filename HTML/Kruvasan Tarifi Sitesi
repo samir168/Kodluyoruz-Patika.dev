@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kruvasan Tarifi</title>
+
+
+    <style>
+        body {
+            background-color: #e0c9a9;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;        }
+    </style>
+</head>
+<body>
+
+    <!-- content-start -->
+    <header>
+       <h1> <i>...Çikolatalı Kruvasan...</i></h1>
+    </header>
+   
+    
+            <p><address><strong> güzel ve yararlı Fransız icadı, kat kat kabaran çıtır hamuru ile göz dolduran, mideleri mest eden kruvasan yapımı biraz incelik ve özveri gerektiriyor.</strong></address></p>
+            <p>
+                <strong>Tarif:</strong> Ramazani Samir
+            </p>
+            <ul>
+                <li>
+                <div style="text-align: center;">
+                    <div style="display: inline-block; text-decoration: underline;">
+                    <p><span style="color: rgb(165, 3, 3)" >Kaç Kişilik:</span> 12 Kişilik</p>
+                    </div>
+                    <div style="display: inline-block; text-decoration: underline; padding: 10px;">
+                    <p><span style="color: rgb(165, 3, 3)" >Hazırlama Süresi:</span> 55 Dakika</p>
+                    </div>
+                    <div style="display: inline-block; text-decoration: underline;">
+                    <p><span style="color: rgb(165, 3, 3)" >Pişirme Süresi:</span> 15 Dakika</p>
+                    </div>
+                </div>
+                </li>
+    
+            </ul>
+       <section style="position: relative; left: 400px; width: fit-content;">
+        <article >
+            <h3 style="background-color: #963102; color: aliceblue; display: inline-block;">Çikolatalı Kruvasan Tarifi İçin Malzemeler..</h3>
+            <ul>
+                <li>500 gr un</li>
+                <li>1
+                    yemek kaşığı
+                    eritilmiş tereyağı</li>
+                <li>250
+                    ml.
+                    süt</li>
+                <li>1/4
+                    su bardağı
+                    toz şeker</li>
+                    <li>
+                        1,5
+tatlı kaşığı
+tuz
+                    </li>
+                    <li>
+                        200
+gram
+tereyağı
+                    </li>
+                    <li>
+                        1
+adet
+yumurta sarısı
+                    </li>
+            </ul>
+        </article>
+        <article>
+            <h3 style="background-color: #963102; color: aliceblue; display: inline-block;">Çikolata Küpleri Nasıl Yapılır?</h3>
+            <ol>
+                <li>Elediğiniz unu mutfak tezgahı üzerine alın. Orta kısmını parmak uçlarınızla havuz şeklinde açın.</li>
+                <li>Yaş maya, toz şeker ve tuz; ılık sütün sıcaklığında çözüldüğünde eritilmiş tereyağını ekleyin. Kenar kısımda kalan unu azar azar iç kısma alarak karıştırın.
+                </li>
+                <li>Bu aşamada metal bir spatula kullanabilir ve sıvı durumda olan tüm malzemeyi una yedirebilirsiniz.
+                </li>
+                <li>Hamurun üzerine yapışan fazla unları bir fırça yardımıyla aldıktan sonra hamuru dikdörtgen şeklinde katlayıp, streç film ile sardıktan sonra buzdolabına kaldırın. 30 dakika kadar bekletin.</li>
+                <li>Kruvasan şeklini yakaladınız. Hamurları yağlı kağıt ile kaplanmış fırın tepsisine aralıklı olarak yerleştirin. Küçük bir kapta çırptığınız yumurta sarısını bir fırça yardımıyla üzerlerine sürün</li>
+                <li>Pişmeye hazır durumda olan kruvasanları son bir kez mayalanmaları için bu şekilde oda ısısında bekletin. Fırını 180 derece ısıtın.
+                </li>
+                <li>Tepsi mayalanmasını da tamamlayan kruvasanları önceden ısıtılmış 180 derece fırında 15 dakika, üzerleri renk alana kadar pişirin. Ilık olarak kahvaltıların yanı sıra kahvenin yanında gururla servis edin, sevdiklerinizle paylaşın.
+                </li>
+              
+            </ol>
+            <h1 align="right" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; font-size: larger;">Afiyet olsun</h1>
+        </article>
+    
+    
+    
+    </section>
+
+
+
+
+
+
+
+</body>
+</html>

@@ -1,0 +1,126 @@
+<!-- index.html -->***************************************************************************************************************************************************
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Header-Start -->
+    <header>
+     <img class="img"  src="https://web.archive.org/web/19990504112211im_/http://www.google.com/google.jpg" alt="">
+
+    </header>
+
+     <!-- Header-End -->
+   
+     <!-- Content-Start -->
+
+<section>
+     <!-- search part start-->
+    <table class="position" border ="0" width ="90%">
+        <tbody>
+             
+            <tr class="position">
+               <search>
+               
+                <td  bgcolor ="#EEEEEE"
+                colspan="3">
+                Search the web using Google!
+                <br>
+                <input type="text" value size="40">
+                <br>
+                <input type="submit"value="Google Search">
+                <input type="submit" value="I'm feeling lucky" >
+                </td>
+               </search>
+                
+            </tr>
+        
+    <!-- search part end-->
+    <!-- first box start-->  
+    <tr class="position">
+     <box1>
+      
+            <td width="37%" bgcolor="#7EE5DA">
+                Special Searches
+                <br>
+                <a href=/web/19981202230410/http://www.google.com/stanford">Stanford Searches</a>
+                <br>
+                <a href="/web/19981202230410/http://www.google.com/linux">Linux Search</a>
+
+
+            </td>
+        </box1>
+    <!-- first box end -->
+    <!-- second box start --> 
+         <box2>
+            <td bgcolor="#70CCC2"> 
+                <a href="help.html">Help!</a>
+                <br>
+                <a href="about.html">About Google!</a>
+                <br>
+                <a href="company.html">Company Info</a>
+                <br>
+                <a href="stikers.html">Google! Logos</a>
+                <br>
+
+
+            </td>
+        </box2>
+    <!-- second box end -->
+    <!-- third box start -->   
+        <box3>    
+             <td bgcolor="#62B3AA">
+                
+               Get Google!
+               <br>
+               uptades monthly:
+               <br>
+               <input type="text" name="" value="your e-mail" id="">
+               <br>
+               <input type="button" value="Subscribe"> 
+               <font size="-1">
+               <a href="https://web.archive.org/web/19981202230410/http://www.findmail.com/list/google-friends/">Archive</a>
+         </font>
+      
+           </td>
+        </box3> 
+    <!-- third box end -->
+       </tr>
+        </tbody>
+    </table>
+     
+    <div class="position">
+    <font  size="-1">Copyright ©1998 Google Inc.</font>
+    </div>
+
+
+
+</section>
+
+    
+</body>
+</html>
+
+
+
+<!-- style.css -->***************************************************************************************************************************************************
+.img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+
+.position{
+    text-align: center;
+    margin: auto;
+    padding: auto;
+}

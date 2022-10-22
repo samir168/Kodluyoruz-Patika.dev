@@ -1,0 +1,22 @@
+
+a{
+    text-decoration: none;
+    color: rgb(183, 188, 193);
+}
+a:hover{
+    color:aliceblue; 
+    
+}
+
+
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+  }
+
+  
+  
